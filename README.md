@@ -6,3 +6,5 @@ regras:
 ### 1 - "Todas as regras devem ser obedecidas."
 
 ### 2 - "Não pode maltratar gatinhos."
+
+### 3 - Nunca, jamais dormir.
