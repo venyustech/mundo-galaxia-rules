@@ -1,17 +1,17 @@
 Como adicionar nova regra no jogo: 
-1- Criar a sua branch com o nome do que favi ser feito, de forma resumida
+1- Criar a sua branch com o nome do que vai ser feito, de forma resumida:
  $ git checkout -b 'nome-da-branch-criada'
  
-2- edite o arquivo como desejar.
+2- Edite o arquivo como desejar.
 
-3- Abra o controle de branch
+3- Abra o controle de branch.
 
-4- Verificar o que esta certo e colocar em stage 
+4- Verificar o que esta certo e colocar em stage.
 
-5- comente o que esta subindo
+5- Comente o que esta subindo:
   $ git commit -m 'chore: comente aqui o que esta subindo'
   
-6- Empurrar tudo que foi feito para a branch que voce criou no passo 1
+6- Empurrar tudo que foi feito para a branch que voce criou no passo 1:
   $ git push origin nome-da-branch-criada
   
-7- criar um pull request no github 
+7- Criar um pull request no github.
