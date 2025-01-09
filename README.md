@@ -5,4 +5,5 @@ regras:
 
 ### 1 - "Todas as regras devem ser obedecidas",
 ### 2 - "Não pode maltratar gatinhos",
-### 3 - "Nunca, jamais dormir"
+### 3 - "Nunca, jamais dormir",
+### 4 - "Ao ver o coelho branco, pergunte-lhe que horas são".
