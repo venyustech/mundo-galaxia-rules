@@ -9,4 +9,5 @@ regras:
 ### 4 - "Ao ver o coelho branco, pergunte-lhe que horas são",
 ### 5 - "Sempre prender Luís Augusto",
 ### 6 - "Tomar o chá Redux todos os dias",
-### 7 - "Limpar a caixinha de areia todos os dias".
+### 7 - "Limpar a caixinha de areia todos os dias",
+### 8 - "Amassar tão galerinha".
