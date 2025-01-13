@@ -11,4 +11,5 @@ regras:
 ### 6 - "Tomar o chá Redux todos os dias",
 ### 7 - "Limpar a caixinha de areia todos os dias",
 ### 8 - "Amassar tão galerinha",
-### 9 - "Aprender Javascript".
+### 9 - "Aprender Javascript",
+### 10 - "Não separar briga de gatinhos".
